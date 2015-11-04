@@ -1,0 +1,4 @@
+# 以"#"开头的行将被忽略,一行只写一个域名，否则该行失效
+# 如www.baidu.com将过滤该域名下的所有子域名
+www.baidu.com
+www.zhihu.com
